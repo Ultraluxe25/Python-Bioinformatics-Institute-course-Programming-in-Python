@@ -1,1 +1,1 @@
-# Python-Bioinformatics-Institute-course---Programming-in-Python
+# Python Bioinformatics Institute course - Programming in Python
